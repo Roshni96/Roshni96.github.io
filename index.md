@@ -25,8 +25,8 @@
 
 
 ---
-[NYC Taxi Tips Preiction](https://github.com/Roshni96/NYC_Taxi_streaming)
-<h5>Designed streaming pipeline for taxi tips prediction using Spark and Kafka.</h5>
+[NYC Taxi Tips Prediction](https://github.com/Roshni96/NYC_Taxi_streaming)
+<h5>Designed streaming pipeline for taxi tips prediction using Spark and Kafka and visualized it on a map.</h5>
 
 
 ---
