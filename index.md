@@ -10,42 +10,39 @@
 
 
 ---
-[SmartDoor](/sample_page)
+[SmartDoor](https://github.com/Roshni96/SmartDoor)
+<h5>Virtual door application that recognizes and authenticates faces using Amazon Web Services.</h5>
+
+---
+[Dining Concierge Chatbot](https://github.com/Roshni96/DiningChatbot)
+<h5> A serverless, microservice-driven web application that sends you restaurant suggestions given a set of preferences
+ that you provide the chatbot with through conversation using Amazon Web Services.</h5>
 
 
 ---
-[Dining Concierge Chatbot](/sample_page)
+[Airbnb Listings Financial Performance](https://github.com/Roshni96/Airbnb_host_revenue_analysis)
+<h5>Maximixe Profits for hosts by applying Natural Language Processing tools on Airbnb listings.</h5>
 
 
 ---
-[Airbnb Listings Financial Performance](/sample_page)
+[Credit Card Fraud Detection](https://github.com/Roshni96/Credit_Card_Fraud_Detection)
+<h5>Designed automated fraud alert dashboard using Spark,Airflow and Kafka.</h5>
 
 
 ---
-[Credit Card Fraud Detection](/sample_page)
+[Fyuur](https://github.com/Roshni96/fyyur)
+<h5>A concert booking website that facilitates the discovery and bookings of
+ shows between local performing artists and venues in Flask.</h5>
 
 
 ---
-[Fyuur](/sample_page)
+[Trivia](https://github.com/Roshni96/Trivia_app)
+<h5>Built a Trivia API that allows to search,add and modify trivia questions as well as answers.</h5>
 
 
----
-[Trivia](/sample_page)
-
-
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-<h2>Hi!</h2>
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
----
 
 
 
 ---
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
+
 <!-- Remove above link if you don't want to attibute -->
