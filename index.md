@@ -25,8 +25,8 @@
 
 
 ---
-[Credit Card Fraud Detection](https://github.com/Roshni96/Credit_Card_Fraud_Detection)
-<h5>Designed automated fraud alert dashboard using Spark,Airflow and Kafka.</h5>
+[NYC Taxi Tips Preiction](https://github.com/Roshni96/NYC_Taxi_streaming)
+<h5>Designed streaming pipeline for taxi tips prediction using Spark and Kafka.</h5>
 
 
 ---
