@@ -4,7 +4,9 @@
 
 ### Category Name 1 
 
-[Time Series Forecasting Model](/sample_page)
+[Time Series Forecasting Model](https://github.com/Roshni96/Rice_price_forecast)
+
+<h3>Model that correlates the price of rice with climate and economic factors in India.</h3>
 
 
 ---
