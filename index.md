@@ -6,7 +6,7 @@
 
 [Time Series Forecasting Model](https://github.com/Roshni96/Rice_price_forecast)
 
-<h6>Model that correlates the price of rice with climate and economic factors in India.</h6>
+<h5>Model that correlates the price of rice with climate and economic factors in India.</h5>
 
 
 ---
