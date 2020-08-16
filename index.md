@@ -11,7 +11,7 @@
 
 ---
 [SmartDoor](https://github.com/Roshni96/SmartDoor)
-<h5>Virtual door application that recognizes and authenticates faces using Amazon Web Services.</h5>
+<h5>Virtual door application that records live video and authenticates faces using Amazon Web Services.</h5>
 
 ---
 [Dining Concierge Chatbot](https://github.com/Roshni96/DiningChatbot)
@@ -21,7 +21,7 @@
 
 ---
 [Airbnb Listings Financial Performance](https://github.com/Roshni96/Airbnb_host_revenue_analysis)
-<h5>Maximixe Profits for hosts by applying Natural Language Processing tools on Airbnb listings.</h5>
+<h5>Maximixe profits for hosts by applying Natural Language Processing tools on Airbnb listings.</h5>
 
 
 ---
@@ -37,7 +37,7 @@
 
 ---
 [Trivia](https://github.com/Roshni96/Trivia_app)
-<h5>Built a Trivia API that allows to search,add and modify trivia questions as well as answers.</h5>
+<h5>Built a Trivia API that allows users to search,add and modify trivia questions as well as answers.</h5>
 
 
 
