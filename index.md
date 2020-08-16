@@ -2,7 +2,7 @@
 
 ---
 
-### Category Name 1 
+
 
 [Time Series Forecasting Model](https://github.com/Roshni96/Rice_price_forecast)
 
